@@ -1,1 +1,0 @@
-/usr/bin/g++ -fPIC -g -shared -Wl,-soname,libwrapper.so -o libwrapper.so CMakeFiles/wrapper.dir/wrapper/src/math.cpp.o CMakeFiles/wrapper.dir/wrapper/src/export_math.cpp.o  libcore.a 

@@ -1,4 +1,0 @@
-/home/jose-alberto/Documentos/testetri/build/CMakeFiles/core.dir
-/home/jose-alberto/Documentos/testetri/build/CMakeFiles/wrapper.dir
-/home/jose-alberto/Documentos/testetri/build/CMakeFiles/edit_cache.dir
-/home/jose-alberto/Documentos/testetri/build/CMakeFiles/rebuild_cache.dir
